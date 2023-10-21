@@ -1,0 +1,8 @@
+[Desktop Entry]
+
+Type=Application
+Name=OptiMate
+Exec=/home/anakin513/Projects/DellHackathon/FINAL_Laptop/bash.sh
+Terminal=true
+Icon=/home/anakin513/Pictures/OptiMate.png
+Categories=Utility;
